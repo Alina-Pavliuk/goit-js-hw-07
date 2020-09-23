@@ -1,0 +1,79 @@
+/* ========================================TASK-03============================================= */
+#categories {
+  list-style: none;
+  
+}
+
+li img {
+  display: block;
+  max-width: 70%;
+  margin-right: 30px;
+  max-height: 450px;
+  border: 10px solid rgba(29, 48, 35, 0.3);
+}
+
+#gallery {
+  display: flex;
+  list-style: none;
+  width: 80vw;
+  margin: 0;
+  padding: 50px;
+  justify-content: flex-end;
+}
+
+ /* ==========================================TASK-05=============================================   */
+
+ #name-input {
+   margin-top: 30px;
+   padding: 5px;
+ }
+
+ /* ==========================================TASK-06=============================================  */
+ 
+ #validation-input {
+  border: 3px solid #bdbdbd;
+}
+
+#validation-input.valid {
+  border-color: #4caf50;
+}
+
+#validation-input.invalid {
+  border-color: #f44336;
+}
+
+h1 {
+  padding-bottom: 30px;
+}
+ /* ==========================================TASK-07=============================================  */
+#font-size-control {
+  margin-top: 50px;
+  display: block;
+}
+
+#text {
+  font-size: 34px;
+  
+}
+
+
+
+#counter {
+  margin: 20px;
+  padding: 10px;
+}
+#name-input {
+  display: block;
+  margin: 20px;
+}
+
+
+#controls {
+  margin: 25px;
+}
+
+
+
+
+
+
